@@ -1,0 +1,5 @@
+Here’s my study schedule for the week:
+- Monday: Review Node.js and MongoDB.
+- Wednesday: Work on mobile app development with Android Studio.
+- Friday: Prepare for COMP3123 assignment.
+

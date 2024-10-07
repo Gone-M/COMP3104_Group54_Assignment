@@ -1,0 +1,2 @@
+One interesting idea is to build a job portal using Node.js and MongoDB. The backend would allow companies to post job listings while providing a user-friendly interface for applicants to track their application status.
+

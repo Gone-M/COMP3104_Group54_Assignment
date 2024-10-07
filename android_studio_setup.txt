@@ -1,0 +1,2 @@
+Setting up Android Studio was straightforward. After installation, I configured the Android SDK and set up an emulator for testing my mobile apps. I’m excited to build Android apps and explore Kotlin for development.
+
