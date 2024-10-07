@@ -1,0 +1,2 @@
+COMP 3104 DevOps course covers essential practices and tools to help bridge the gap between development and operations teams. Topics include CI/CD pipelines, automated testing, cloud infrastructure, and collaborative development practices.
+
