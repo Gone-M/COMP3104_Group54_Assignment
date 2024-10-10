@@ -1,0 +1,11 @@
+{
+  "name": "comp3104_group54_assignment",
+  "version": "1.0.0",
+  "description": "## Group Members - **Leader:** Civan Metin (101441732) - [GitHub](https://github.com/Gone-M) - **Member 2:** Ceren Isci (101287638) - [GitHub](https://github.com/cerenisci)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
