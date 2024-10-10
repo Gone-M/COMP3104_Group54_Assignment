@@ -1,6 +1,7 @@
 # COMP3104_Group54_Assignment
 
-https://app.travis-ci.com/Gone-M/COMP3104_Group54_Assignment.svg?token=SEL7szk2xAUqVUFju9E8&branch=101441732-civan
+[![Build Status](https://app.travis-ci.com/Gone-M/COMP3104_Group54_Assignment.svg?branch=101441732-civan)](https://app.travis-ci.com/Gone-M/COMP3104_Group54_Assignment)
+
 
 ## Group Members
 - **Leader:** Civan Metin (101441732) - [GitHub](https://github.com/Gone-M)
