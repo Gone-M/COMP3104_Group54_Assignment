@@ -17,4 +17,8 @@ before_install:
   - nvm install 18
   - nvm use 18
 install:
+<<<<<<< HEAD
   - npm install
+=======
+  - npm install
+>>>>>>> origin/101441732-civan
